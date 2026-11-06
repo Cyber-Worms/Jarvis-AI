@@ -1,0 +1,11 @@
+{
+  "name": "JARVIS — Personal AI Assistant",
+  "description": "Just A Rather Very Intelligent System. Advanced personal AI assistant with holographic reactor interface, voice automation, and persistent memory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
